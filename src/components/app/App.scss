@@ -1,0 +1,25 @@
+#wrapper {
+  text-align: center;
+  max-width: 600px;
+  margin: 50px auto;
+}
+
+#loading {
+  font-size: 20px;
+}
+
+#lists-container {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+}
+
+.player-list-container {
+  width: 300px;
+
+  h2 {
+    text-align: left;
+    font-size: 30px;
+    padding-top: 10px;
+  }
+}
